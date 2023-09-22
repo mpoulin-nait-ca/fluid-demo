@@ -1,0 +1,53 @@
+/* COLOUR PALETTE
+    dark    #333;
+    navy    #37384c;
+    creme   #e9dccc;
+*/
+
+body {
+    background-color: #e9dccc;
+    color: #333;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Utility Classes */
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.flex {
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-between;
+    gap: 2%;
+}
+.text-align-center {
+    text-align: center;
+}
+
+
+.flex > * {
+    width: 49%;
+}
+header img {
+    width: 64px;
+}
+/* Typographic Styles */
+
+
+/* Navigation */
+
+
+/* Hero Banner */
+
+
+/* Main Content */
+
+
+/* Menu */
+
+
+/* Location */
+
+
+/* Footer */
